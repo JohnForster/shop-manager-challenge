@@ -1,4 +1,4 @@
-Shop Manager Project
+Shop Manager Project - Test
 =================
 
 * Feel free to use Google, your notes, books, etc. but work on your own
